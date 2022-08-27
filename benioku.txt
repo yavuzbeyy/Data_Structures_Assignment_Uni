@@ -1,0 +1,1 @@
+kontrol amaçlı 11 faktoriyel el ile hesaplandı sonuç programın verdiği sonuçla karşılaştırıldı ve aynı olduğu görüldü.
